@@ -1,4 +1,4 @@
-# upgraded-memory
+# 5 Stage Mini CPU
 
 A hardware implementation of a 5-stage pipelined MIPS CPU designed in Verilog HDL and targeted for the Xilinx Zybo FPGA platform (XC7Z010-1CLG400C). 
 
